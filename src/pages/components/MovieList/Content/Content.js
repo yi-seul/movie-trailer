@@ -17,7 +17,7 @@ function MovieListContent() {
         // console.log(inView); -> 마지막 요소가 감지되면 true가 됨
         if (!inView) return;
         fetchNextPage();
-    }, [inView]);
+    }, [inView, fetchNextPage]);
 
     // react-query 사용하지 않았을 때
     /*
