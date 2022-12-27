@@ -1,0 +1,8 @@
+
+남은기간 4일
+
+    12/24 영화페이지 퍼블리싱 및 api 셋팅, 데이터 불러오는 것, 무한스크롤링(react-query || useObserver 두가지 이용 가능)
+    12/25 영화페이지 남은 프로젝트 + 배포
+
+    12/31 typescript
+    1/1   typescript 프로젝트 (todoList) + tdd 개념 + test code
